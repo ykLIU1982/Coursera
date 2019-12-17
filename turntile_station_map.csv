@@ -1,42 +1,42 @@
 turntile.station,turntile.routes,turntile.station_id,geo.station,geo.routes,geo.station_id
-59 ST,"{'N', 'R', 'W'}",t0004000,LEXINGTON AV/59 ST,"{'N', 'R', 'W'}",7
-WHITEHALL S - FRY,"{'R', '1', 'W'}",t0008015,WHITEHALL ST,"{'R', 'W'}",23
-DELANCEY/ESSEX,"{'M', 'Z', 'J', 'F'}",t0009016,ESSEX ST,"{'M', 'Z', 'J'}",102
-14 ST - UNION SQ,"{'L', 'R', 'W', 'Q', 'N', '6', '5', '4'}",t0005008,UNION SQ - 14 ST,{'L'},117
+59 ST,"{'W', 'N', 'R'}",t0004000,LEXINGTON AV/59 ST,"{'W', 'N', 'R'}",7
+WHITEHALL S - FRY,"{'W', 'R', '1'}",t0008015,WHITEHALL ST,"{'W', 'R'}",23
+DELANCEY/ESSEX,"{'M', 'J', 'Z', 'F'}",t0009016,ESSEX ST,"{'M', 'J', 'Z'}",102
+14 ST - UNION SQ,"{'N', 'W', 'Q', '5', 'L', '6', '4', 'R'}",t0005008,UNION SQ - 14 ST,{'L'},117
 163 ST - AMSTERDM,{'C'},t1041122,163 ST - AMSTERDAM AV,{'C'},149
 CATHEDRAL PKWY,"{'C', 'B'}",t1043128,CATHEDRAL PKWY (110 ST),"{'C', 'B'}",155
 81 ST - MUSEUM,"{'C', 'B'}",t1043131,81 ST - MUSEUM OF NATURAL HISTORY,"{'C', 'B'}",159
-59 ST COLUMBUS,"{'D', 'A', '1', 'B', 'C'}",t1045133,59 ST - COLUMBUS CIRCLE,"{'D', 'A', 'C', 'B'}",161
-42 ST - PORT AUTH,"{'E', 'R', '7', 'W', 'G', 'A', '1', 'N', 'S', '3', '2', 'C'}",t1047134,42 ST - PORT AUTHORITY BUS TERMINAL,"{'E', 'A', 'C'}",163
-42 ST - PORT AUTH,"{'E', 'R', '7', 'W', 'A', 'Q', '1', 'N', 'S', '3', '2', 'C'}",t1002134,42 ST - PORT AUTHORITY BUS TERMINAL,"{'E', 'A', 'C'}",163
-34 ST - PENN STA,"{'E', 'A', 'C'}",t1048135,34 ST - PENN STATION,"{'E', 'A', 'C'}",164
-W 4 ST - WASH SQ,"{'E', 'D', 'A', 'F', 'M', 'B', 'C'}",t1049137,W 4 ST,"{'E', 'A', 'C'}",167
-W 4 ST - WASH SQ,"{'E', 'D', 'A', 'F', 'M', 'B', 'C'}",t1049137,W 4 ST,"{'M', 'F', 'D', 'B'}",167
-WORLD TRADE CTR,"{'E', 'A', '3', '2', 'C'}",t1050139,WORLD TRADE CENTER,{'E'},171
+59 ST COLUMBUS,"{'A', '1', 'C', 'B', 'D'}",t1045133,59 ST - COLUMBUS CIRCLE,"{'C', 'A', 'B', 'D'}",161
+42 ST - PORT AUTH,"{'N', 'E', 'S', 'G', 'A', 'W', '1', 'C', '7', '2', 'R', '3'}",t1047134,42 ST - PORT AUTHORITY BUS TERMINAL,"{'C', 'A', 'E'}",163
+42 ST - PORT AUTH,"{'N', 'E', 'S', 'W', 'A', 'Q', '1', 'C', '7', '2', 'R', '3'}",t1002134,42 ST - PORT AUTHORITY BUS TERMINAL,"{'C', 'A', 'E'}",163
+34 ST - PENN STA,"{'C', 'A', 'E'}",t1048135,34 ST - PENN STATION,"{'C', 'A', 'E'}",164
+W 4 ST - WASH SQ,"{'E', 'F', 'A', 'M', 'C', 'B', 'D'}",t1049137,W 4 ST,"{'C', 'A', 'E'}",167
+W 4 ST - WASH SQ,"{'E', 'F', 'A', 'M', 'C', 'B', 'D'}",t1049137,W 4 ST,"{'F', 'M', 'B', 'D'}",167
+WORLD TRADE CTR,"{'E', 'A', 'C', '2', '3'}",t1050139,WORLD TRADE CENTER,{'E'},171
 ROOSEVELT ISLND,{'F'},t1069231,ROOSEVELT ISLAND,{'F'},222
 LEXINGTON AV/63,{'F'},t1069230,LEXINGTON AV/63 ST,"{'Q', 'F'}",223
-47 - 50 STS ROCK,"{'M', 'F', 'D', 'B'}",t1072212,47-50 STS - ROCKEFELLER CTR,"{'M', 'F', 'D', 'B'}",225
-B'WAY - LAFAYETTE,"{'D', 'Q', 'F', '6', 'B'}",t1075214,BROADWAY-LAFAYETTE ST,"{'M', 'F', 'D', 'B'}",230
-DELANCEY/ESSEX,"{'M', 'Z', 'J', 'F'}",t1009016,DELANCEY ST,{'F'},233
-LEXINGTON AV/53,"{'M', 'E', '6'}",t1062184,LEXINGTON AV/53 ST,"{'M', 'E'}",275
+47 - 50 STS ROCK,"{'F', 'M', 'B', 'D'}",t1072212,47-50 STS - ROCKEFELLER CTR,"{'F', 'M', 'B', 'D'}",225
+B'WAY - LAFAYETTE,"{'F', 'Q', '6', 'B', 'D'}",t1075214,BROADWAY-LAFAYETTE ST,"{'F', 'M', 'B', 'D'}",230
+DELANCEY/ESSEX,"{'M', 'J', 'Z', 'F'}",t1009016,DELANCEY ST,{'F'},233
+LEXINGTON AV/53,"{'M', '6', 'E'}",t1062184,LEXINGTON AV/53 ST,"{'M', 'E'}",275
 MARBLE HILL - 225,{'1'},t3078271,MARBLE HILL - 225 ST,{'1'},296
-168 ST,"{'A', '1', 'C'}",t1040121,168 ST - WASHINGTON HTS,{'1'},302
+168 ST,"{'C', 'A', '1'}",t1040121,168 ST - WASHINGTON HTS,{'1'},302
 137 ST CITY COL,{'1'},t3078266,137 ST - CITY COLLEGE,{'1'},305
 116 ST - COLUMBIA,{'1'},t3078265,116 ST - COLUMBIA UNIVERSITY,{'1'},307
 66 ST - LINCOLN,{'1'},t3078264,66 ST - LINCOLN CENTER,{'1'},314
-59 ST COLUMBUS,"{'D', 'A', '1', 'B', 'C'}",t3087133,59 ST - COLUMBUS CIRCLE,{'1'},315
-34 ST - PENN STA,"{'3', '2', '1'}",t3082135,34 ST - PENN STATION,"{'3', '2', '1'}",318
+59 ST COLUMBUS,"{'A', '1', 'C', 'B', 'D'}",t3087133,59 ST - COLUMBUS CIRCLE,{'1'},315
+34 ST - PENN STA,"{'2', '1', '3'}",t3082135,34 ST - PENN STATION,"{'2', '1', '3'}",318
 CHRISTOPHER ST,{'1'},t3078246,CHRISTOPHER ST - SHERIDAN SQ,{'1'},323
 WTC - CORTLANDT,{'1'},t3078259,WTC CORTLANDT,{'1'},328
-PARK PLACE,"{'E', 'A', '3', '2', 'C'}",t3081022,PARK PL,"{'3', '2'}",331
+PARK PLACE,"{'E', 'A', 'C', '2', '3'}",t3081022,PARK PL,"{'2', '3'}",331
 68ST - HUNTER CO,{'6'},t3090282,68 ST - HUNTER COLLEGE,{'6'},399
-GRD CNTRL - 42 ST,"{'7', 'S', '6', '5', '4'}",t3093280,GRAND CENTRAL - 42 ST,"{'5', '4', '6'}",402
-BROOKLYN BRIDGE,"{'Z', '6', '5', 'J', '4'}",t3089276,BROOKLYN BRIDGE - CITY HALL,"{'5', '4', '6'}",411
+GRD CNTRL - 42 ST,"{'S', '5', '6', '7', '4'}",t3093280,GRAND CENTRAL - 42 ST,"{'4', '6', '5'}",402
+BROOKLYN BRIDGE,"{'J', '5', 'Z', '6', '4'}",t3089276,BROOKLYN BRIDGE - CITY HALL,"{'4', '6', '5'}",411
 HARLEM 148 ST,{'3'},t3099293,HARLEM - 148 ST,{'3'},436
-CENTRAL PK N110,"{'3', '2'}",t3080292,CENTRAL PARK NORTH (110 ST),"{'3', '2'}",441
-GRD CNTRL - 42 ST,"{'7', 'S', '6', '5', '4'}",t3093280,GRAND CENTRAL - 42 ST,{'7'},465
-5 AVE,"{'7', 'D', 'F', 'M', 'B'}",t3102330,5 AV,{'7'},466
-GRD CNTRL - 42 ST,"{'7', 'S', '6', '5', '4'}",t3093280,GRAND CENTRAL - 42 ST,{'S'},469
+CENTRAL PK N110,"{'2', '3'}",t3080292,CENTRAL PARK NORTH (110 ST),"{'2', '3'}",441
+GRD CNTRL - 42 ST,"{'S', '5', '6', '7', '4'}",t3093280,GRAND CENTRAL - 42 ST,{'7'},465
+5 AVE,"{'F', 'M', '7', 'B', 'D'}",t3102330,5 AV,{'7'},466
+GRD CNTRL - 42 ST,"{'S', '5', '6', '7', '4'}",t3093280,GRAND CENTRAL - 42 ST,{'S'},469
 34 ST - HUDSON YD,{'7'},t3103351,34 ST - 11 AV,{'7'},471
 96 ST - 2 AVE,{'Q'},t1017238,96 ST,{'Q'},475
 86 ST - 2 AVE,{'Q'},t1017237,86 ST,{'Q'},476
